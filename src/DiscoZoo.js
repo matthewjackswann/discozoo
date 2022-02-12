@@ -228,6 +228,7 @@ const DiscoZoo = () => {
             if (old === i) return -1;
             return i;
         });
+        setKnownTiles({});
         setAnimals({});
     }
 
