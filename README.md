@@ -1,6 +1,6 @@
 # Disco Zoo React Component
 
-For an explanation of the code goto [SwannysCode]http://localhost:3000/projects/5
+For an explanation of the code goto [SwannysCode](https://swannyscode.com/projects/5)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
